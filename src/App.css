@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Mengatur lebar scrollbar */
+::-webkit-scrollbar {
+    width: 12px;  /* Lebar scrollbar */
+}
+
+/* Mengatur track (jalur) scrollbar */
+::-webkit-scrollbar-track {
+    background: #232222;  /* Warna background track */
+    border-radius: 10px;  /* Membuat track berbentuk bulat di ujungnya */
+}
+
+/* Mengatur thumb (pegangan) scrollbar */
+::-webkit-scrollbar-thumb {
+    background-color: #888;  /* Warna thumb scrollbar */
+    border-radius: 10px;  /* Membuat thumb berbentuk bulat di ujungnya */
+    border: 3px solid #232222;  /* Membuat jarak antara thumb dengan track */
+}
+
+/* Mengatur warna thumb saat hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;  /* Warna thumb saat di-hover */
+}
+
+/* Mengatur thumb scrollbar pada elemen yang memiliki scroll horizontal */
+::-webkit-scrollbar-thumb:horizontal {
+    background-color: #555;  /* Warna thumb scrollbar horizontal */
+}
+
+/* Mengatur track scrollbar pada elemen yang memiliki scroll horizontal */
+::-webkit-scrollbar-track:horizontal {
+    background: #e0e0e0;  /* Warna track scrollbar horizontal */
+}
