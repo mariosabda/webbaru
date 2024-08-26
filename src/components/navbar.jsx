@@ -16,7 +16,7 @@ const Navbar = () => {
 
     return (
         <div className="flex justify-between items-center h-20 px-4 text-white sticky top-0 z-50 bg-black">
-            <img className="w-[70px] h-[70px] mt-2" src={Logo}/>
+            <img href="https://mario-lake.vercel.app/" className="w-[70px] h-[70px] mt-2" src={Logo}/>
             <ul className="hidden md:flex">
                 <Link to="profile" smooth={true} duration={500} offset={-65}>
                     <button className="p-4 hover:text-[#ff204e]">Profile</button>
