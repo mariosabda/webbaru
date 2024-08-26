@@ -23,11 +23,11 @@ const Navbar = () => {
                 <Link to="study" smooth={true} duration={500}>
                     <button className="p-4 hover:text-[#ff204e]">Study</button>
                 </Link>
-                <Link to="experience" smooth={true} duration={500}>
-                    <button className="p-4 hover:text-[#ff204e]">Experience</button>
+                <Link to="partner" smooth={true} duration={500}>
+                    <button className="p-4 hover:text-[#ff204e]">Partner</button>
                 </Link>
-                <Link to="achievement" smooth={true} duration={500}>
-                    <button className="p-4 hover:text-[#ff204e]">Achievement</button>
+                <Link to="home" smooth={true} duration={500}>
+                    <button className="p-4 hover:text-[#ff204e]">Home</button>
                 </Link>
             </ul>
         <div className="md:hidden">
@@ -38,8 +38,8 @@ const Navbar = () => {
                 <ul className="uppercase">
                     <li className="p-4 border-b border-gray-600"><Link to="profile" smooth={true} duration={500}>Profile</Link></li>
                     <li className="p-4 border-b border-gray-600"><Link to="study" smooth={true} duration={500}>Study</Link></li>
-                    <li className="p-4 border-b border-gray-600"><Link to="experience" smooth={true} duration={500}>Experience</Link></li>
-                    <li className="p-4"><Link to="achievement" smooth={true} duration={500}>Achievement</Link></li>
+                    <li className="p-4 border-b border-gray-600"><Link to="experience" smooth={true} duration={500}>Achievement</Link></li>
+                    <li className="p-4"><Link to="achievement" smooth={true} duration={500}>Home</Link></li>
                 </ul>
             </div>
         </div>
