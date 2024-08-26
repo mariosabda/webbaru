@@ -6,7 +6,7 @@ const Newsletter = () => {
     return (
     <div className="w-full py-10 text-white" id="study">
         <div className="max-w-[1240px] mx-auto grid grid-cols-1 gap-8 px-4">
-            <div className="text-center">
+            <div>
             <h1 className="text-lg sm:text-xl md:text-3xl lg:text-4xl font-bold py-2">
                 Study, Hardwork, and Result
             </h1>
