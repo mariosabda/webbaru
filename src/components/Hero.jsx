@@ -13,7 +13,7 @@ const Hero = () => {
                     <p className="md:text-6xl sm:text-5xl text-xl font-bold">I'm</p>
                 <br />
                 <ReactTyped className="md:text-6xl sm:text-5xl text-xl font-bold pl-2 text-[#FF204E]"
-                    strings={['an engineer', 'Sperana 48', 'MHS 27', 'Mario Sabda Karuna']}
+                    strings={['Sperana 48', 'MHS 27', 'an engineer', 'Mario Sabda Karuna']}
                     typeSpeed={80}
                     backSpeed={100}
                     loop
