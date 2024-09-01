@@ -20,7 +20,7 @@ const Newsletter = () => {
             <div className="flex flex-col items-center lg:flex-row justify-center lg:space-x-8">
             <div className="flex flex-col items-center text-center">
                 <img
-                className="w-[80px] sm:w-[100px] lg:w-[120px] transition transform hover:scale-110 duration-300 md:text-red"
+                className="w-[80px] sm:w-[100px] lg:w-[120px] transition transform hover:scale-110 duration-300"
                 src={Bw}
                 alt="SMP Bentara Wacana"
                 />
