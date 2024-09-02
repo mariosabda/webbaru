@@ -24,8 +24,11 @@ const Navbar = () => {
                 <Link to="study" smooth={true} duration={500} offset={-100}>
                     <button className="p-4 hover:text-[#ff204e]">Study</button>
                 </Link>
-                <Link to="partner" smooth={true} duration={500}>
+                <Link to="partner" smooth={true} duration={500} offset={-155}>
                     <button className="p-4 hover:text-[#ff204e]">Partner</button>
+                </Link>
+                <Link to="awards" smooth={true} duration={500} offset={-155}>
+                    <button className="p-4 hover:text-[#ff204e]">Awards</button>
                 </Link>
                 <Link to="home" smooth={true} duration={500}>
                     <button className="p-4 hover:text-[#ff204e]">Home</button>
