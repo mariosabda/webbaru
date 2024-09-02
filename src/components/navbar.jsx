@@ -43,7 +43,7 @@ const Navbar = () => {
                     <li className="p-4 border-b border-gray-600"><Link to="profile" smooth={true} duration={500}>Profile</Link></li>
                     <li className="p-4 border-b border-gray-600"><Link to="study" smooth={true} duration={500}>Study</Link></li>
                     <li className="p-4 border-b border-gray-600"><Link to="partner" smooth={true} duration={500}>Partner</Link></li>
-                    <li className="p-4 border-b border-gray-600"><Link to="award" smooth={true} duration={500}>Award</Link></li>                   
+                    <li className="p-4 border-b border-gray-600"><Link to="awards" smooth={true} duration={500}>Awards</Link></li>                   
                     <li className="p-4"><Link to="home" smooth={true} duration={500}>Home</Link></li>
                 </ul>
             </div>
