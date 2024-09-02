@@ -4,7 +4,7 @@ import Smanaga from "../assets/SMANAGA.png";
 
 const Newsletter = () => {
     return (
-    <div className="w-full py-10 text-black bg-gray-200" id="study">
+    <div className="w-full py-10 text-white" id="study">
         <div className="max-w-[1240px] mx-auto grid grid-cols-1 gap-8 px-4">
             <div>
             <h1 className="text-lg sm:text-xl md:text-3xl lg:text-4xl font-normal py-2">
@@ -26,7 +26,7 @@ const Newsletter = () => {
                 />
                 <a
                 href="https://www.instagram.com/sperana_bewe/"
-                className="text-black w-[150px] sm:w-[200px] lg:w-[250px] rounded-md font-medium mx-auto my-5 py-3 hover:underline hover:text-[#FF204E] text-sm sm:text-base lg:text-lg"
+                className="text-white w-[150px] sm:w-[200px] lg:w-[250px] rounded-md font-medium mx-auto my-5 py-3 hover:underline hover:text-[#FF204E] text-sm sm:text-base lg:text-lg"
                 >
                 SMP Bentara Wacana
                 </a>
@@ -39,7 +39,7 @@ const Newsletter = () => {
                 />
                 <a
                 href="https://www.instagram.com/admin_smanaga/"
-                className="text-black w-[150px] sm:w-[200px] lg:w-[250px] rounded-md font-medium mx-auto my-5 py-3 hover:underline hover:text-[#FF204E] text-sm sm:text-base lg:text-lg"
+                className="text-white w-[150px] sm:w-[200px] lg:w-[250px] rounded-md font-medium mx-auto my-5 py-3 hover:underline hover:text-[#FF204E] text-sm sm:text-base lg:text-lg"
                 >
                 SMA Negeri 3 Magelang
                 </a>
