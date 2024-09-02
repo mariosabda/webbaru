@@ -3,7 +3,7 @@ import React from "react";
 const Partner = () => {
     return (
         <div className="w-full py-10 text-black bg-white" id="partner">
-            <h1 className="text-center md:text-4xl sm:text-2xl text-xl font-semibold">Partner</h1>
+            <h1 className="text-center md:text-4xl sm:text-2xl text-xl font-normal">Partner</h1>
             <p className="text-lg mx-auto px-10 py-10 italic">
             • Of course, I am not alone in working on this website; I also have a dedicated support system that faithfully accompanies me in working on this project.
             A girl who is willing to wait for me when I am busy. Her name is <a href="https://www.instagram.com/timfnny/" className="text-[#FF204E] hover:text-[#800000] hover:underline font-bold">Timoty T.F</a>,
