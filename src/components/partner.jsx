@@ -7,7 +7,7 @@ const Partner = () => {
             <p className="text-lg mx-auto px-10 py-10 italic">
             • Of course, I am not alone in working on this website; I also have a dedicated support system that faithfully accompanies me in working on this project.
             A girl who is willing to wait for me when I am busy. Her name is <a href="https://www.instagram.com/timfnny/" className="text-[#FF204E] hover:text-[#800000] hover:underline font-bold">Timoty T.F</a>,
-            and she helps me stay motivated in working on this project.
+            and she helps me stay motivated in working on this project
             </p>
             <p className="text-lg mx-auto px-10 py-10 italic">
             • I also don’t learn alone; I’m assisted by my older brother, <a href="https://rifqifarhansyah.id/" className="text-[#FF204E] hover:text-[#800000] hover:underline font-bold">Mohammad Rifqi Farhansyah</a>, 
