@@ -5,6 +5,10 @@ const Partner = () => {
         <div className="w-full py-10 text-black bg-white" id="partner">
             <h1 className="text-center md:text-4xl sm:text-2xl text-xl font-normal">Partner</h1>
             <p className="text-lg mx-auto px-10 py-10 italic">
+            • First of all, I want to thank Lord Jesus Christ for helping me in the making of this website. Of course, creating this website could not be separated from my prayers, because prayer is the key to success.
+            Faith without works is dead, which is why I pray and work hard every day to achieve my dreams.
+            </p>
+            <p className="text-lg mx-auto px-10 py-10 italic">
             • Of course, I am not alone in working on this website; I also have a dedicated support system that faithfully accompanies me in working on this project.
             A girl who is willing to wait for me when I am busy. Her name is <a href="https://www.instagram.com/timfnny/" className="text-[#FF204E] hover:text-[#800000] hover:underline font-bold">Timoty T.F</a>,
             and she helps me stay motivated in working on this project.
